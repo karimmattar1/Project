@@ -22,7 +22,8 @@ money.
 
 - Each round (gameweek or knockout tie), every active player picks **one team to win**.
 - **Win** → you survive to the next round.
-- **Not a win** (loss or draw — TBD whether draw kills you) → you lose a **life**.
+- **Not a win** (loss **or draw**) → you lose a **life**. Win-or-bust: a draw
+  costs you, which drives faster attrition and bigger pots.
 - **0 lives** → eliminated… unless you **buy back in**.
 - **Classic rule:** you can't pick the same team twice in a run. This is what
   creates strategy — you have to ration your strong teams across the season.
@@ -35,7 +36,10 @@ money.
 This is the actual product. Everything else serves it.
 
 **Lives + buy-backs as the growth engine:**
-- Players start with N lives (1–3, TBD).
+- Lives are **purchasable, capped at 2 held at any time** — you can pay to top
+  back up to 2, but never stockpile more. The cap is the anti-"buy-the-win"
+  guardrail.
+- **Any non-win (loss or draw) costs a life.** Win-or-bust.
 - Losing a life is the trigger to spend money to stay in.
 - **Buy-backs feed the pot AND generate rake** — an eliminated player is normally
   lost revenue and lost engagement; a buy-back re-monetises them, re-engages
@@ -54,13 +58,16 @@ This is the actual product. Everything else serves it.
   so the endgame is "pure" survivors.
 - **Buy-back cap** — max re-entries per player, so a whale can't simply buy the win.
 
+**Payout:** pot splits among the **top 10** finishers (weighted, e.g. 1st gets the
+biggest slice down to 10th). More winners keeps people chasing deep into the season.
+
 **Worked example (illustrative):**
 - 10,000 entrants × £10 entry = £100,000 gross. Rake 15% → **£15,000 to operator**,
   **£85,000 seed pot**.
 - Over the season, say 6,000 buy-backs at an average £20 = £120,000 gross →
   another **£18,000 rake**, **£102,000 added to pot**.
-- Headline pot ≈ **£187,000**, operator revenue ≈ **£33,000** — and the big pot is
-  itself the ad that recruits the next cohort.
+- Headline pot ≈ **£187,000**, operator revenue ≈ **£33,000**, split across the
+  top 10 — and the big pot is itself the ad that recruits the next cohort.
 
 ## 4. The growth / outreach flywheel
 
@@ -138,14 +145,20 @@ A pick co-pilot to beat every spreadsheet/WhatsApp pool out there:
    Moneyball brain.
 5. **Phase 4 — New modes:** prediction / fantasy / draft / outrights.
 
-## 11. Open decisions (need your steer)
+## 11. Locked decisions
 
-- **Lives:** start with 1, 2, or 3?
-- **Draw:** does a draw kill a life, or only a loss?
-- **Buy-back curve:** round-escalating, life-escalating, or both?
-- **Buy-back window & cap:** how late can you re-enter, and max re-entries?
-- **Prize split:** winner-take-all, top-N, or season-end split among survivors?
-- **Rake %:** target operator cut.
+- **Lives:** purchasable, **capped at 2** held at any time.
+- **Any non-win (loss or draw) costs a life** — win-or-bust.
+- **Buy-back curve:** escalates by **both round and number of buy-backs used**.
+- **Payout:** **top 10** split (weighted).
+- **Hero product:** Last Man Standing; other modes later.
+- **Money:** licensed real-money from day one.
+
+## 12. Open decisions (need your steer)
+
+- **Buy-back window:** how late into a season/tournament can you still re-enter?
+- **Rake %:** target operator cut (~10–20%?).
+- **Top-10 weighting:** how steep is the split from 1st to 10th?
 - **Launch jurisdiction:** which market do we license for first? (Gates everything
   in Phase 2.)
 - **Pools at launch:** public mega-pools, private friend pools, or both?
