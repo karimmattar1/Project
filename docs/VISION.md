@@ -1,4 +1,4 @@
-# Project Vision — Working Name: "Moneyball" (TBD)
+# Project Vision — PotShot
 
 > A real-money **Last Man Standing** football platform built around one idea:
 > **make the pot snowball, and pull more people in.** Buy-backs grow the prize as
@@ -156,10 +156,13 @@ A pick co-pilot to beat every spreadsheet/WhatsApp pool out there:
 - **Rake:** **20%** on entries and buy-backs.
 - **Hero product:** Last Man Standing; other modes later.
 - **Money:** licensed real-money from day one.
+- **Name:** **PotShot** (the pot + a shot on goal + "take a pot shot"). Primary
+  domain target **potshot.bet**; `playpotshot.com` / `potshotapp.com` as defensive
+  redirects.
 
 ## 12. Open decisions (need your steer)
 
 - **Buy-back window:** how late into a season/tournament can you still re-enter?
 - **Top-10 weighting:** how steep is the split from 1st to 10th?
 - **Launch jurisdiction:** _deferred_ — decide before the Phase 2 compliance build.
-- **Name & brand:** "Moneyball" is taken/risky as a trademark — need a real name.
+- **Domains:** purchase potshot.bet (+ defensive .coms) — not yet bought.
