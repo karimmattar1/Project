@@ -61,12 +61,12 @@ This is the actual product. Everything else serves it.
 **Payout:** pot splits among the **top 10** finishers (weighted, e.g. 1st gets the
 biggest slice down to 10th). More winners keeps people chasing deep into the season.
 
-**Worked example (illustrative):**
-- 10,000 entrants × £10 entry = £100,000 gross. Rake 15% → **£15,000 to operator**,
-  **£85,000 seed pot**.
+**Worked example (illustrative, 20% rake):**
+- 10,000 entrants × £10 entry = £100,000 gross. Rake 20% → **£20,000 to operator**,
+  **£80,000 seed pot**.
 - Over the season, say 6,000 buy-backs at an average £20 = £120,000 gross →
-  another **£18,000 rake**, **£102,000 added to pot**.
-- Headline pot ≈ **£187,000**, operator revenue ≈ **£33,000**, split across the
+  another **£24,000 rake**, **£96,000 added to pot**.
+- Headline pot ≈ **£176,000**, operator revenue ≈ **£44,000**, split across the
   top 10 — and the big pot is itself the ad that recruits the next cohort.
 
 ## 4. The growth / outreach flywheel
@@ -151,16 +151,15 @@ A pick co-pilot to beat every spreadsheet/WhatsApp pool out there:
 - **Any non-win (loss or draw) costs a life** — win-or-bust.
 - **Buy-back curve:** escalates by **both round and number of buy-backs used**.
 - **Payout:** **top 10** split (weighted).
+- **Pools:** **both public mega-pools and private friend pools** at launch.
+- **Same-team-twice:** **no reuse** (classic LMS) — rationing strong teams is the skill.
+- **Rake:** **20%** on entries and buy-backs.
 - **Hero product:** Last Man Standing; other modes later.
 - **Money:** licensed real-money from day one.
 
 ## 12. Open decisions (need your steer)
 
 - **Buy-back window:** how late into a season/tournament can you still re-enter?
-- **Rake %:** target operator cut (~10–20%?).
 - **Top-10 weighting:** how steep is the split from 1st to 10th?
-- **Launch jurisdiction:** which market do we license for first? (Gates everything
-  in Phase 2.)
-- **Pools at launch:** public mega-pools, private friend pools, or both?
-- **Same-team-twice rule:** on (classic) or relaxed?
+- **Launch jurisdiction:** _deferred_ — decide before the Phase 2 compliance build.
 - **Name & brand:** "Moneyball" is taken/risky as a trademark — need a real name.
